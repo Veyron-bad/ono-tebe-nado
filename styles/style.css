@@ -161,7 +161,7 @@
   max-width: 256px;
   width: 100%;
   padding: 12px 31px;
-  font-family: "Releway";
+  font-family: 'Releway';
   color: #fff;
   text-align: center;
   font-size: 22px;
@@ -268,7 +268,7 @@
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
-  font-family: "Releway";
+  font-family: 'Releway';
   border: none;
   text-decoration: underline 1px;
   text-underline-offset: 5px;
